@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @acadiuss
 - 👀 I’m interested in AI, ML, DATA SCIENCE
-- 🌱 I’m currently learning C++ /vhdl
-- 
+- 🌱 I’m currently learning c++ / python
